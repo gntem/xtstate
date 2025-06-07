@@ -1,0 +1,14 @@
+[package]
+name = "xtstate"
+version = "0.1.0"
+edition = "2024"
+authors = ["Giorgos Ntemiris <ntemirisgiorgos3@gmail.com>"]
+description = "A Rust library for managing and manipulating state in a functional programming style."
+license = "MIT"
+repository = "https://github.com/gntem/xtstate"
+readme = "README.md"
+keywords = ["state"]
+categories = ["library", "functional programming"]
+
+[dependencies]
+chrono = "0.4.41"
