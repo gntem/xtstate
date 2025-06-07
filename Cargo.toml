@@ -8,7 +8,6 @@ license = "MIT"
 repository = "https://github.com/gntem/xtstate"
 readme = "README.md"
 keywords = ["state"]
-categories = ["library", "functional programming"]
 
 [dependencies]
 chrono = "0.4.41"
